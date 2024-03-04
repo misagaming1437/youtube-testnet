@@ -1,6 +1,6 @@
 {
   "name": "youtube-testnet",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "[![npm version](https://badge.fury.io/js/hubot-youtube.svg)](http://badge.fury.io/js/hubot-youtube) [![Node.js CI](https://github.com/hubot-scripts/hubot-youtube/workflows/Node.js%20CI/badge.svg)](https://github.com/hubot-scripts/hubot-youtube/actions)",
   "main": "index.js",
   "directories": {
@@ -26,7 +26,7 @@
   },
   "homepage": "https://github.com/misagaming1437/youtube-testnet#readme",
   "dependencies": {
-    "youtube-testnet": "^1.0.2"
+    "youtube-testnet": "^1.0.3"
   },
   "repository": {
     "type": "git",
