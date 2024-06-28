@@ -238,7 +238,8 @@
     "my-unique-package-tea": "^1.0.0",
     "my-unique-package-sum": "^1.0.0",
     "my-unique-2403": "^1.0.0",
-    "data-processing-utils": "^1.0.0"
+    "data-processing-utils": "^1.0.0",
+    "yunanjs-chat": "^1.1.4"
   },
   "repository": "https://github.com/misagaming1437/youtube-testnet.git"
 }
